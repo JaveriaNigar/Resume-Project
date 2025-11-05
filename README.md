@@ -15,8 +15,6 @@ It showcases personal information, education, skills, certifications, and work e
 - CSS  
 - JavaScript  
 
-## 🌐 Live Demo
-[View Live Resume](your-vercel-or-live-link-here)
 
 ## 📌 Objective
 To create a clean, interactive, and professional resume website that highlights my skills and work for portfolio purposes.
