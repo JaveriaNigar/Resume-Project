@@ -10,6 +10,7 @@ It showcases personal information, education, skills, certifications, and work e
 - Skills section with **Hide/Show toggle**  
 - Responsive layout (works on desktop & mobile)  
 
+
 ## 🧰 Technologies Used
 - HTML  
 - CSS  
